@@ -85,7 +85,7 @@ The comparison script outputs four types of files:
 By default, if the same prefix is used multiple times, `sugar.R` will append the `.al`, `.index`, and `.score` files and create new `.pdb` files.
 
 ### References
-[1] Rasolohery, Inès, Gautier Moroy, and Frédéric Guyon. "PatchSearch: a fast computational method for off-target detection." J Chem. Info. Model. 2017.
-[2] Rey, Julien, Inès Rasolohery, Pierre Tufféry, Frédéric Guyon, and Gautier Moroy. "PatchSearch: a web server for off-target protein identification." Nucleic Acids Res, 2019.
-[3] Guyon, Frédéric, and Gautier Moroy. "Non-sequential alignment of binding sites for fast peptide screening." bioRxiv, 2023.
+[1] Rasolohery, Inès, Gautier Moroy, and Frédéric Guyon. "PatchSearch: a fast computational method for off-target detection." J Chem. Info. Model. 2017. <br>
+[2] Rey, Julien, Inès Rasolohery, Pierre Tufféry, Frédéric Guyon, and Gautier Moroy. "PatchSearch: a web server for off-target protein identification." Nucleic Acids Res, 2019. <br>
+[3] Guyon, Frédéric, and Gautier Moroy. "Non-sequential alignment of binding sites for fast peptide screening." bioRxiv, 2023. <br>
 [4] More recent version of pepit https://github.com/DSIMB/pepit
